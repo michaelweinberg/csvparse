@@ -29,3 +29,5 @@ node_modules
 #All CSV and Excel Files
 *.csv
 *.xlsx
+
+js
